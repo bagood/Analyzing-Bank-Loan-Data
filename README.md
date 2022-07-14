@@ -1,4 +1,4 @@
-# DataCamp-Publication-Competition
+# Analyzing a Bank Loan data
 This is my first ever data analysis project. In this analysis, I analyze data regarding loans in a bank. I use the programming language of python and many python packages such as NumPy, pandas, matplotlib, seaborn, and statsmodels. 
 
 First off, I clean the data from any extreme values and reformat the data into a better form, then I begin to start making my analysis. Then, I determine the distribution type for the debt and annual income and see whether or not there is any correlation between the debt and its annual income. Then, I determine the likelihood of the customers's behaviors, such as their behaviors on paying their debt in time or past due date, and their behaviors on paying their debt in full or not. There are two criteria that we'll be using in this second analysis, which are each person's other variables and purpose in getting a loan. Lastly, I want to determine to whom should the banker's promote their bank loan programs to get the most feedback from our customers.
